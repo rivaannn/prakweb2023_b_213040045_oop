@@ -16,5 +16,3 @@ use App\Produk\User as ProdukUser;
 use App\Service\User as ServiceUser;
 
 new ServiceUser();
-echo "<br>";
-new ProdukUser();
